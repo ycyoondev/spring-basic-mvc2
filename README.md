@@ -14,9 +14,3 @@ API는 POSTMAN 사용해서 요청 주고받음
 
 
 
-
----
-
-### IntelliJ 단축키
-
-Ctrl + O : 자주쓰는 코드 생성 
